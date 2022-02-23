@@ -4,4 +4,4 @@ ejercicios de lista,mapas,funciones,clase y herencia ejemplos Listas mapas funci
 - [] [mad](https://dartpad.dartlang.org/275a90049c611d3af74351e94be22d41)
 - [] [funciones flechas](https://dartpad.dartlang.org/44fd2770bf427a44e4f13109cf4268db)
 - [] [clases](https://dartpad.dartlang.org/)
-- [] [Herencia](https://dartpad.dartlang.org/)
+- [] [Herencia](https://dartpad.dartlang.org/a33dd20797fa9b637d627c6c4408ce05)
